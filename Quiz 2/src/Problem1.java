@@ -1,5 +1,5 @@
 import java.util.Scanner;
-//Thomas
+//Thomas Pennington
 
 public class Problem1 {
 
